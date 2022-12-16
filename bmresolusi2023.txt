@@ -1,0 +1,7 @@
+Resolusi saya untuk 2023 kedepan:
+ - Pelajari HTML - HTML5
+ - Pelajari CSS, CSS3, dan fitur lain
+ - Pelajari Javascript
+ - Pelajari Laravel
+ - Bikin lokerdokter com
+ - Buat aplikasi klinik management
