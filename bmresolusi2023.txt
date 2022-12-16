@@ -5,3 +5,5 @@ Resolusi saya untuk 2023 kedepan:
  - Pelajari Laravel
  - Bikin lokerdokter com
  - Buat aplikasi klinik management
+ - Persiapan bikin tesis
+ - Cari judul tesis
