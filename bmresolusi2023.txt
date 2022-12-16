@@ -2,7 +2,9 @@ Resolusi saya untuk 2023 kedepan:
  - Pelajari HTML - HTML5
  - Pelajari CSS, CSS3, dan fitur lain
  - Pelajari Javascript
+   - Vue
  - Pelajari Laravel
  - Bikin lokerdokter com
  - Persiapan bikin tesis
  - Cari judul tesis
+ - belajar sabar
